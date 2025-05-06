@@ -2,7 +2,6 @@ package com.clussy.umbra;
 
 import com.clussy.umbra.commands.TeleportToUmbraCommand;
 import com.clussy.umbra.Datagen.ModWorldGenRegistryProvider; // Ensure this package and file exist!
-import com.clussy.umbra.Config;
 import com.mojang.brigadier.CommandDispatcher;
 import net.minecraft.client.Minecraft;
 import net.neoforged.neoforge.registries.DeferredRegister;
